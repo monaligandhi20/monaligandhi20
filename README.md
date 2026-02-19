@@ -35,8 +35,8 @@ I am a software engineer focused on building scalable, maintainable systems. Cur
 *This graph represents both my professional contributions and personal AI research.*
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monaligandhi20&theme=dark&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaligandhi20&theme=dark&layout=compact&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monaligandhi20&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaligandhi20&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -51,5 +51,5 @@ I am a software engineer focused on building scalable, maintainable systems. Cur
 - ⚡ I believe in writing clean, documented, and efficient code.
 
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=monaligandhi20&icon=0&color=0" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmonaligandhi20&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
 </p>
