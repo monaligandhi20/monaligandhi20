@@ -1,21 +1,37 @@
-# Monali Gandhi | Full Stack Developer 👋
+# Hi there, I'm Monali! 👋 
+### 💻 Full Stack Developer | DevOps Enthusiast | AI Explorer
 
 I am a software engineer focused on building scalable, maintainable systems. Currently, I am expanding my expertise in **AI integration** and **cloud-native architectures** to drive efficiency in modern development workflows.
 
 ---
 
-## 💻 Professional Tech Stack
-*A summary of the core technologies I use to build enterprise-grade applications.*
+## 🤖 AI & Machine Learning Focus
+*Learning and building something new in AI every single day.*
 
-### 🚀 Core Engineering
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+</p>
 
-### 🤖 AI & Innovation (Current Focus)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+> [!TIP]
+> **Currently exploring:** Agentic workflows and optimizing RAG (Retrieval-Augmented Generation) for enterprise applications.
 
 ---
 
-## 📊 GitHub Contributions
+## 🛠️ My Tech Stack
+
+### 🌐 Languages & Frontend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+### ⚙️ Backend & Infrastructure
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
 *This graph represents both my professional contributions and personal AI research.*
 
 <p align="center">
@@ -29,13 +45,10 @@ I am a software engineer focused on building scalable, maintainable systems. Cur
 
 ---
 
-## 🧠 What I'm Learning Today
-I believe in continuous growth. Currently, I'm spending 30-60 minutes daily on:
-- 🔭 Fine-tuning LLMs for specific technical documentation.
-- ⚡ Optimizing CI/CD pipelines with GitHub Actions.
-- 🏗️ Building RAG systems for structured data.
-
----
+## 🧠 Continuous Learning
+- 🤝 Open to collaborating on **Open Source AI projects**.
+- 💬 Ask me about **Java, Go, or the latest LLM research**.
+- ⚡ I believe in writing clean, documented, and efficient code.
 
 <p align="right">
   <img src="https://visitcount.itsvg.in/api?id=monaligandhi20&icon=0&color=0" />
