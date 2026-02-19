@@ -23,10 +23,8 @@ I am a software engineer focused on building scalable, maintainable systems. Cur
 
 ## 🛠️ My Tech Stack
 
-### 🌐 Languages & Frontend
+### 🌐 Languages, Frontend, Backend & Infrastructure
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-### ⚙️ Backend & Infrastructure
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
@@ -35,8 +33,8 @@ I am a software engineer focused on building scalable, maintainable systems. Cur
 *This graph represents both my professional contributions and personal AI research.*
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monaligandhi20&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaligandhi20&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=monaligandhi20&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaligandhi20&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
